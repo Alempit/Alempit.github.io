@@ -7,6 +7,6 @@ Welcome to my ePortfolio.
 ### Navigation
 - Software Engineering & Design
 - Algorithms & Data Structures
-- Databases
+- Databases 
 
 [My GitHub Profile](https://github.com/Alempit)
